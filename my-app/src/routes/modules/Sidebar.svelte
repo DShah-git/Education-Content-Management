@@ -113,6 +113,7 @@
 
     .selected{
         border-left: 3px solid #646cff;
+        background-color: rgb(46, 46, 46);
     }
     
 
